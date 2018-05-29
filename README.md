@@ -13,3 +13,11 @@ Il faut faire une classe pour chaque association possible. Ce qui est long, lour
 Oui, car si un pokémon est ko, l'énergie n’est pas détruite. Elle est conservé.
 
 ## TP 2 :
+
+
+
+1) Quels sont les problèmes engendrés par cette solution ?
+Il y a une redondance de la méthode “affiche()” se trouvant dans plusieurs classes, pas d'instanciation dynamique, trop de dépendances.
+
+2) Quels sont les problèmes engendrés par cette solution ?
+Il ne faut pas implémenter une nouvelle logique quand elle existe déjà.
