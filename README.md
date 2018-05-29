@@ -11,3 +11,5 @@ Il faut faire une classe pour chaque association possible. Ce qui est long, lour
 
 3) L’agrégation entre les classes Pokémon et Énergie a-t-elle une incidence ?
 Oui, car si un pokémon est ko, l'énergie n’est pas détruite. Elle est conservé.
+
+# TP 2
